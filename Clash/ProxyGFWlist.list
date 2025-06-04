@@ -6962,3 +6962,6 @@ DOMAIN-SUFFIX,ocnttv.com
 # VikACG
 DOMAIN-SUFFIX,vikacg.com
 DOMAIN-SUFFIX,picjs.xyz
+
+# FlightRadar24
+DOMAIN-KEYWORD,flightradar24
